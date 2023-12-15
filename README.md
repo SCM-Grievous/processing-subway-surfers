@@ -1,10 +1,7 @@
 # Subway Surfers (Processing Edition)
 By *Nathan Moore*
 
-An adaptation of the popular runner game Subway Surfers, made entirely in Processing.
-
 This project represents a recreation of Subway Surfers, using 3D rendering with OpenGL, audio processing, animation, and custom obstacle models.
-Bugs, errors, and crashes may occur.
 
 ## Getting Started
 Run `main()` method in `SSApp` class to launch the game.  Use 'A' and 'D' keys to move, 'Space' to jump.
